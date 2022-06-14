@@ -1,0 +1,18 @@
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\bin\Release\server cliente thread.exe
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\bin\Release\server cliente thread.pdb
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\obj\Release\server_cliente_thread.Form1.resources
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\obj\Release\server_cliente_thread.Properties.Resources.resources
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\obj\Release\server cliente thread.csproj.GenerateResource.Cache
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\obj\Release\server cliente thread.csproj.CoreCompileInputs.cache
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\obj\Release\server cliente thread.exe
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\obj\Release\server cliente thread.pdb
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\obj\Release\server cliente thread.csprojResolveAssemblyReference.cache
+L:\Servidor FINAL1\bin\Release\server cliente thread.exe.config
+L:\Servidor FINAL1\bin\Release\server cliente thread.exe
+L:\Servidor FINAL1\bin\Release\server cliente thread.pdb
+L:\Servidor FINAL1\obj\Release\server_cliente_thread.Form1.resources
+L:\Servidor FINAL1\obj\Release\server_cliente_thread.Properties.Resources.resources
+L:\Servidor FINAL1\obj\Release\server cliente thread.csproj.GenerateResource.cache
+L:\Servidor FINAL1\obj\Release\server cliente thread.csproj.CoreCompileInputs.cache
+L:\Servidor FINAL1\obj\Release\server cliente thread.exe
+L:\Servidor FINAL1\obj\Release\server cliente thread.pdb

@@ -1,0 +1,29 @@
+c:\users\revolution\documents\visual studio 2015\Projects\server cliente thread\server cliente thread\bin\Debug\server cliente thread.exe
+c:\users\revolution\documents\visual studio 2015\Projects\server cliente thread\server cliente thread\bin\Debug\server cliente thread.pdb
+c:\users\revolution\documents\visual studio 2015\Projects\server cliente thread\server cliente thread\obj\Debug\server cliente thread.csprojResolveAssemblyReference.cache
+c:\users\revolution\documents\visual studio 2015\Projects\server cliente thread\server cliente thread\obj\Debug\server_cliente_thread.Form1.resources
+c:\users\revolution\documents\visual studio 2015\Projects\server cliente thread\server cliente thread\obj\Debug\server_cliente_thread.Properties.Resources.resources
+c:\users\revolution\documents\visual studio 2015\Projects\server cliente thread\server cliente thread\obj\Debug\server cliente thread.csproj.GenerateResource.Cache
+c:\users\revolution\documents\visual studio 2015\Projects\server cliente thread\server cliente thread\obj\Debug\server cliente thread.exe
+c:\users\revolution\documents\visual studio 2015\Projects\server cliente thread\server cliente thread\obj\Debug\server cliente thread.pdb
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\server cliente thread\server cliente thread\bin\Debug\ManagedWifi.dll
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\obj\Debug\server cliente thread.exe
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\obj\Debug\server cliente thread.pdb
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\bin\Debug\server cliente thread.exe
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\bin\Debug\server cliente thread.pdb
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\obj\Debug\server cliente thread.csprojResolveAssemblyReference.cache
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\obj\Debug\server_cliente_thread.Form1.resources
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\obj\Debug\server_cliente_thread.Properties.Resources.resources
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\obj\Debug\server cliente thread.csproj.GenerateResource.Cache
+C:\Users\revolution\Documents\Visual Studio 2015\Projects\Servidor FINAL1\obj\Debug\server cliente thread.csproj.CoreCompileInputs.cache
+L:\Servidor FINAL1\bin\Debug\server cliente thread.exe
+L:\Servidor FINAL1\bin\Debug\server cliente thread.pdb
+L:\Servidor FINAL1\obj\Debug\server cliente thread.csprojAssemblyReference.cache
+L:\Servidor FINAL1\obj\Debug\server_cliente_thread.Form1.resources
+L:\Servidor FINAL1\obj\Debug\server_cliente_thread.Properties.Resources.resources
+L:\Servidor FINAL1\obj\Debug\server cliente thread.csproj.GenerateResource.cache
+L:\Servidor FINAL1\obj\Debug\server cliente thread.csproj.CoreCompileInputs.cache
+L:\Servidor FINAL1\obj\Debug\server cliente thread.csproj.CopyComplete
+L:\Servidor FINAL1\obj\Debug\server cliente thread.exe
+L:\Servidor FINAL1\obj\Debug\server cliente thread.pdb
+L:\Servidor FINAL1\bin\Debug\server cliente thread.exe.config
